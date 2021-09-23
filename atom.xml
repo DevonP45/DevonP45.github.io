@@ -2,12 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DevonP45.github.io</id>
     <title>shiwoo_live</title>
-    <updated>2021-09-23T06:22:25.303Z</updated>
+    <updated>2021-09-23T09:31:04.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://DevonP45.github.io"/>
     <link rel="self" href="https://DevonP45.github.io/atom.xml"/>
-    <subtitle>你好，我是shiwoo。这里是我的小站</subtitle>
+    <subtitle>你好，我是shiwoo。这里是我的小站。</subtitle>
     <logo>https://DevonP45.github.io/images/avatar.png</logo>
     <icon>https://DevonP45.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, shiwoo_live</rights>
+    <entry>
+        <title type="html"><![CDATA[page1. 耳朵长上无限耳机 vol.1&2]]></title>
+        <id>https://DevonP45.github.io/post/page1-er-duo-chang-shang-wu-xian-er-ji-vol1and2/</id>
+        <link href="https://DevonP45.github.io/post/page1-er-duo-chang-shang-wu-xian-er-ji-vol1and2/">
+        </link>
+        <updated>2021-09-23T07:28:01.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>建好站子的第一篇自然要给一个现成的主题。<br>
+作为一个日日都得听新歌的人，耳机好像长在了耳朵上，把“无线”改成含义更广的“无限”，就有了这个名字。我会定期总结近期觉得不错的专辑或者专辑中的歌。但我的涉猎远远比不上货真价实的digger，所以，听听就好。</p>
+</blockquote>
+<h1 id="vol1">Vol.1</h1>
+<p>7月的9张分别来自日本、韩国、国内和爱尔兰，恰好反映了我日常听的最多的国别领域。</p>
+<h2 id="rejjie-snow-baw-baw-black-sheep">Rejjie Snow &lt; Baw Baw Black Sheep &gt;</h2>
+<p>93年的爱尔兰的rapper，13年出道EP &lt; Rejovich &gt;直接登上iThues Hip-hop版一，同期发歌的还有Kenye和J.Cole。我是因为18年首张studio album&lt; Dear, Annie&gt;里的 The Rain 知道并开始关注的，他的歌不管是叙述还是呈现，内核都展现出脆弱，喜欢Frank Ocean的可以一并接收。Baw Baw Black Sheep是时隔三年的第二张，也是我这一期最喜欢的一张。其中Cam O'bi、MF DOOM feat的 Cookie Chips是 2020.7.13放出来的。</p>
+<figure data-type="image" tabindex="1"><img src="https://DevonP45.github.io/post-images/1632386183904.jpg" alt="" loading="lazy"></figure>
+<p>个人网站指路：<a href="https://www.rejjiesnow.com/">Rejjie Snow</a>  （周边、巡演、流媒体和联系方式）<br>
+专辑收听指路：<a href="https://www.last.fm/music/Rejjie+Snow/Baw+Baw+Black+Sheep/+wiki">Baw Baw Black Sheep</a></p>
+<h2 id="どんぐりず-4ep1">どんぐりず &lt; 4EP1 &gt;</h2>
+<p>出身日本群马县的双人hip-hop团体，翻译过来应该是橡子（DONGURIZU）的意思。根据google人工智障的中译，两人是初中好友，18年发行第二张专辑，2020年开始逐渐有认可度，签约了CONNECTONE公司，21-22打算做一个4EP的 project，包含不同流派的四部曲，这是2月发行的第一部，是“以舞蹈为主轴的电子音乐”。</p>
+<figure data-type="image" tabindex="2"><img src="https://DevonP45.github.io/post-images/1632388949045.jpg" alt="" loading="lazy"></figure>
+<p>官网：<a href="https://dongurizu.com/">二人组</a>  （题外话，日本的乐队网站都做得太好了，消息更新、视觉设计、巡演日程、视频周边...全面好看且实用，值得试图走向世界的音乐人学习。个人感觉国内的秘密行动stolen还比较成熟，其他的有这意识的不多。）<br>
+收听：<a href="https://www.last.fm/music/DONGURIZU/4EP1">4EP1</a></p>
+<p>-Lu1 &lt; conveni &gt;<br>
+-Meteor &lt; 2019 &gt;<br>
+-Minsu &lt; 민수는 혼린스럽다 &gt;<br>
+-SARRA &lt; ANALOG NANI &gt;<br>
+-DJ Hasebe 17年Manhattan Mix里未知歌手的&lt; Made my day &gt;<br>
+-SUMIN &lt; OO DA DA &gt;<br>
+-Kid Milli &lt; AI, THE PLAYLIST &gt;</p>
+<p>Gorillazn &lt; plastic beach &gt;</p>
+<p>##Say Sue Me &lt; Where We were Together &gt;</p>
+<p>###Bac Gau Cam &lt; Puppet’s Strings &gt;<br>
+-Matt吕彦良 &lt; Fresh Soul &gt;<br>
+-高中正义《夏道》<br>
+-I Mean Us《普通人类》<br>
+-Cardellino &lt; cardellino &gt;<br>
+-Jiwoo &lt; Maison &gt;<br>
+-Men I trust &lt; Untourable Tour &gt;<br>
+-安娜其 &lt; CCCCCriMMMMe &gt;《溺水小刀》<br>
+-Aimyon &lt; tamago &gt;<br>
+-RINI <Rini></p>
+]]></content>
+    </entry>
 </feed>
