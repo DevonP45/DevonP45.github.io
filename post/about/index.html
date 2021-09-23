@@ -151,25 +151,24 @@ weibo: WaaaaalkOutEden<br>
   KnowMe by <a href="https://shiwoo45.live/post/about/" target="_blank">关于</a> | <a class="rss" href="https://DevonP45.github.io/atom.xml" target="_blank">RSS</a>
 </div>
 
-<!--载入js，在</body>之前插入即可-->
-    <!--Leancloud 操作库:-->
-    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-    <!--Valine 的核心代码库-->
-    <script src="/media/scripts/Valine.min.js"></script>
-<div class="comment"></div>
+<div id="vcomments"></div>
+   
 <script>
+    comment_el = '#comment';
+    comment_count_el = 'span.comment-count';
     new Valine({
-        // AV 对象来自上面引入av-min.js
-        av: AV, 
-        el: '.comment',
-	      lang: 'zh-cn',//设置评论语言
-        emoticon_url: 'https://cloud.panjunwen.com/alu',
-  emoticon_list: ["狂汗.png","不说话.png","汗.png","坐等.png","献花.png","不高兴.png","中刀.png","害羞.png","皱眉.png","小眼睛.png","暗地观察.png"],
-  app_id: '5RkkmW0Bngq1AkK5EForKthg-gzGzoHsz',
-  app_key: '你的key',
-  placeholder: 'jUyMbqN8HAsHuxJP8PKVc5mf'
+        el: comment_el,	
+        count_el: comment_count_el,
+        lang: 'zh-cn',	
+        emoticon_url: 'https://cloud.panjunwen.com/alu', /
+        emoticon_list: ["吐.png", "狂汗.png", "不说话.png"], // 表情包文件列表
+        app_id: '5RkkmW0Bngq1AkK5EForKthg-gzGzoHsz',						
+        app_key: 'jUyMbqN8HAsHuxJP8PKVc5mf',   	      
+        placeholder: 'Write a comment',  admin_email_hash: 'f32fc1c3f6674bfb5621a60901b5f96c', 
+        max_nest: 3,					
+        page_size: 5					
     });
-</script>    
+</script>
 
     </div>
     <script type="application/javascript">
