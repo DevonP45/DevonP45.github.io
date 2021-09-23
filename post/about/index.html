@@ -23,6 +23,7 @@
 
 
 
+ <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
   </head>
   <body>
     <div id="app" class="main">
@@ -152,6 +153,14 @@ weibo: WaaaaalkOutEden<br>
   KnowMe by <a href="https://shiwoo45.live/post/about/" target="_blank">关于</a> | <a class="rss" href="https://DevonP45.github.io/atom.xml" target="_blank">RSS</a>
 </div>
 
+<div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: '<5RkkmW0Bngq1AkK5EForKthg-gzGzoHsz>',
+            appKey: '<jUyMbqN8HAsHuxJP8PKVc5mf>'
+        })
+    </script>
 
     </div>
     <script type="application/javascript">
