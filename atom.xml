@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DevonP45.github.io</id>
     <title>shiwoo_live</title>
-    <updated>2021-09-23T05:21:15.549Z</updated>
+    <updated>2021-09-23T05:21:49.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://DevonP45.github.io"/>
     <link rel="self" href="https://DevonP45.github.io/atom.xml"/>
@@ -45,7 +45,6 @@ weibo: WaaaaalkOutEden<br>
 <blockquote>
 <p>如果你也想像我这样搭建自己网站/博客，我的方法可以为你提供一些参考，它不涉及任何技术，大致包含以下几步，更详细的步骤可以在少数派、CSDN、知乎等社区平台搜到别人的分享：</p>
 <blockquote>
-<p>技术小白如何用Gridea和github建立自定义域名的可外部访问的个人博客：</p>
 <ol>
 <li>建立github repositories，配置好page，source选中master，随便选择一个theme，</li>
 <li>购买喜欢的域名（GoDaddy、腾讯云、阿里云等服务商），填入github page的custom domain（在域名管理商那里设置好两条DNS管理，A-@-仓库IP地址-600s; CNAME-www-仓库地址-1h），save。(无域名需求可以跳过直接使用github page的二级域名)</li>
