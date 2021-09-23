@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://DevonP45.github.io</id>
+    <title>shiwoo_live</title>
+    <updated>2021-09-23T05:08:07.170Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://DevonP45.github.io"/>
+    <link rel="self" href="https://DevonP45.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://DevonP45.github.io/images/avatar.png</logo>
+    <icon>https://DevonP45.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, shiwoo_live</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://DevonP45.github.io/post/about/</id>
+        <link href="https://DevonP45.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>我叫shiwoo，纯粹兴趣驱动者；期望是做到意志先行、终身学习；技术小白，但尽力做到purpose-based learning；ENTP；Bi；99年生女。<br>
+<em>不过这些都是标签，不能代表完整的我</em></p>
+<p>匿名交流：<a href="https://www.tapechat.net/uu/E3DZS6/169POH1O" title="tape提问箱">tape提问箱</a></p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<ul>
+<li>听歌，兴趣广泛，尤爱alternative r&amp;b, k-indie；</li>
+<li>日常输入：新闻实验室、产品沉思录、小宇宙、RSS订阅、newsletter订阅；</li>
+<li>正在使用和持续琢磨的生产力工具：Notion、语雀</li>
+<li>打算持续关注的领域：互联网社交、宠物行业、二手物品交易。<br>
+<em>考虑到兴趣的可变性，所以这一趴也是随时可能流动的</em></li>
+</ul>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>可能和你常常见到的个人博客不同，我不是任何领域的大神，只是在这里存放我普通的生活与思考。<br>
+不打扰大家，也欢迎随时光临。<br>
+tag<strong>共感</strong>：推歌/博主/音乐人<br>
+tag<strong>褶皱</strong>：生活日记/随想<br>
+tag<strong>日志</strong>：近期收获最大的学习内容<br>
+tag<strong>TalkWith</strong>：有意义的对话</p>
+<h2 id="交朋友吗">📬 交朋友吗</h2>
+<p>ins: shiwoo_uii<br>
+weibo: WaaaaalkOutEden<br>
+邮箱：amberhighwow@outlook.com</p>
+<blockquote>
+<p>如果你也想像我这样搭建自己网站/博客，我的方法可以为你提供一些参考，它不涉及任何技术，大致包含以下几步，更详细的步骤可以在少数派、CSDN、知乎等社区平台搜到别人的分享：</p>
+<blockquote>
+<p>技术小白如何用Gridea和github建立自定义域名的可外部访问的个人博客：</p>
+<ol>
+<li>建立github repositories，配置好page，source选中master，随便选择一个theme，</li>
+<li>购买喜欢的域名（GoDaddy、腾讯云、阿里云等服务商），填入github page的custom domain（在域名管理商那里设置好两条DNS管理，A-@-仓库IP地址-600s; CNAME-www-仓库地址-1h），save。(无域名需求可以跳过直接使用github page的二级域名)</li>
+<li>建立github token，及时保存令牌。</li>
+<li>下载并设置好Gridea的远程页（一个静态网站，也可尝试Hugo、Hexo、wordpress等，不过学习成本也会更高），仓库域名、分支main，用户名、令牌、域名。</li>
+<li>此时已经可以通过http网址访问到博客，为了安全，通过Cloudflare网站申请免费的SSL证书以实现https访问（或者netlifty、DNSpod），具体操作为修改Godaddy上域名的NS地址为cloudflare解析域名后提供的地址，等待Active后就可以了。<br>
+最终逻辑为，GitHub提供主机，自己购买域名指向服务器，cloudflare提供SSL证书和域名解析，在Gridea上编辑文章并直接同步。进阶的评论组件、写作语法、展示主题等问题同样可以使用code进行DIY，小白通过照猫画虎也几乎可以实现。</li>
+</ol>
+</blockquote>
+</blockquote>
+]]></content>
+    </entry>
+</feed>
