@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DevonP45.github.io</id>
     <title>shiwoo_live</title>
-    <updated>2021-10-02T07:25:58.509Z</updated>
+    <updated>2021-10-02T07:31:26.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://DevonP45.github.io"/>
     <link rel="self" href="https://DevonP45.github.io/atom.xml"/>
@@ -16,7 +16,10 @@
         <link href="https://DevonP45.github.io/ahNWhyxeB/">
         </link>
         <updated>2021-09-30T15:37:58.000Z</updated>
+        <summary type="html"><![CDATA[<p>三则思考，或日记</p>
+]]></summary>
         <content type="html"><![CDATA[<p>三则思考，或日记</p>
+<!-- more -->
 <blockquote>
 <p>决意练习输出后，触发写作欲望的点越来越多了，希望保持呢。</p>
 </blockquote>
@@ -162,8 +165,12 @@
         <link href="https://DevonP45.github.io/page1-er-duo-chang-shang-wu-xian-er-ji-vol1and2/">
         </link>
         <updated>2021-09-23T07:28:01.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>建好站子的第一篇自然要给一个现成的主题。作为一个日日都得听新歌的人，耳机好像长在了耳朵上，把“无线”改成含义更广的“无限”，就有了这个名字。  <br/><br>
+        <summary type="html"><![CDATA[<p>建好站子的第一篇自然要给一个现成的主题。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>建好站子的第一篇自然要给一个现成的主题。</p>
+<!-- more -->
+<blockquote>
+<p>作为一个日日都得听新歌的人，耳机好像长在了耳朵上，把“无线”改成含义更广的“无限”，就有了这个名字。  <br/><br>
 我会定期总结近期觉得不错的专辑或者专辑中的歌。但我的涉猎远远比不上货真价实的digger，所以听听就好。</p>
 </blockquote>
 <h1 id="vol1">Vol.1</h1>
